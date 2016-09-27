@@ -1,4 +1,4 @@
-/*
+margin-bottom30/*
     Created on : 10 Apr, 2015, 1:08:57 PM
     Author     : Design_mylife
     Project    : Bavely - Classy One page Theme
@@ -73,6 +73,7 @@ p {
 
 .margin-bottom30 {
   margin-bottom: 30px;
+  margin-left: 12%;
 }
 
 h1, h2, h3, h4, h5, h6 {
